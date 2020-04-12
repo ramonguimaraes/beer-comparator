@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Beer Comparator</string>
+    <string-array name="mls">
+        <item>300 ml</item>
+        <item>350 ml</item>
+        <item>355 ml</item>
+        <item>550 ml</item>
+        <item>600 ml</item>
+        <item>1 Litro</item>
+    </string-array>
+</resources>
